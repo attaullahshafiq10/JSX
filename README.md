@@ -12,7 +12,7 @@ Upon login it generates a random profile icons for the user.
 
 View live at: https://jsx9.herokuapp.com (Only desktop, Mobile version not supported due to lack of responsiveness)
 
-Find the source code at: https://github.com/rohanshrestha09/JSX
+Find the source code at: https://github.com/attaullahshafiq10/JSX
 
 Framework and libraries used:
 
